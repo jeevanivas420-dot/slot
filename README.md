@@ -111,7 +111,9 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-<img width="1537" height="952" alt="Screenshot 2025-10-08 111558" src="https://github.com/user-attachments/assets/cd8840f5-2b3b-4e2e-8cd5-290cad1ed1bf" />
+<img width="1199" height="650" alt="Screenshot 2025-10-14 083632" src="https://github.com/user-attachments/assets/c28b7f83-0ce4-4c8f-b504-5387d5d37c76" />
+
+
 
 
 ## RESULT
